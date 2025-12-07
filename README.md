@@ -6,7 +6,7 @@
 
 **Lucky Draw Pro** là một ứng dụng web đơn trang (Single-File Solution) được thiết kế để quản lý việc quay số trúng thưởng cho các sự kiện, tiệc công ty hoặc hoạt động lớp học. Với kiến trúc Zero-Dependency, ứng dụng hoạt động mượt mà trên mọi trình duyệt mà không cần cài đặt phức tạp.
 
-
+[Xem demo](https://quaysomayman2.netlify.app/)
 -----
 
 ## 📑 Mục Lục
